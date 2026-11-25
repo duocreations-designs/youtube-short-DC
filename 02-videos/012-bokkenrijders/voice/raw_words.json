@@ -1,0 +1,982 @@
+[
+ {
+  "word": "The",
+  "start": 0.0,
+  "end": 0.22
+ },
+ {
+  "word": "goats",
+  "start": 0.22,
+  "end": 0.62
+ },
+ {
+  "word": "could",
+  "start": 0.62,
+  "end": 0.77
+ },
+ {
+  "word": "fly",
+  "start": 0.77,
+  "end": 1.45
+ },
+ {
+  "word": "and",
+  "start": 1.7,
+  "end": 1.88
+ },
+ {
+  "word": "the",
+  "start": 1.88,
+  "end": 1.94
+ },
+ {
+  "word": "court",
+  "start": 1.94,
+  "end": 2.41
+ },
+ {
+  "word": "wrote",
+  "start": 2.41,
+  "end": 2.58
+ },
+ {
+  "word": "it",
+  "start": 2.58,
+  "end": 2.66
+ },
+ {
+  "word": "down",
+  "start": 2.66,
+  "end": 3.15
+ },
+ {
+  "word": "But",
+  "start": 3.58,
+  "end": 3.75
+ },
+ {
+  "word": "nobody",
+  "start": 3.75,
+  "end": 4.32
+ },
+ {
+  "word": "in",
+  "start": 4.32,
+  "end": 4.47
+ },
+ {
+  "word": "Limburg",
+  "start": 4.47,
+  "end": 4.95
+ },
+ {
+  "word": "ever",
+  "start": 4.95,
+  "end": 5.38
+ },
+ {
+  "word": "saw",
+  "start": 5.38,
+  "end": 5.71
+ },
+ {
+  "word": "one",
+  "start": 5.71,
+  "end": 5.92
+ },
+ {
+  "word": "in",
+  "start": 5.92,
+  "end": 6.01
+ },
+ {
+  "word": "the",
+  "start": 6.01,
+  "end": 6.08
+ },
+ {
+  "word": "sky",
+  "start": 6.08,
+  "end": 6.55
+ },
+ {
+  "word": "Between",
+  "start": 6.96,
+  "end": 7.32
+ },
+ {
+  "word": "1743",
+  "start": 7.32,
+  "end": 8.7
+ },
+ {
+  "word": "and",
+  "start": 8.7,
+  "end": 8.87
+ },
+ {
+  "word": "1794",
+  "start": 8.87,
+  "end": 10.23
+ },
+ {
+  "word": "southern",
+  "start": 10.56,
+  "end": 10.97
+ },
+ {
+  "word": "Limburg",
+  "start": 10.97,
+  "end": 11.5
+ },
+ {
+  "word": "lived",
+  "start": 11.5,
+  "end": 11.74
+ },
+ {
+  "word": "in",
+  "start": 11.74,
+  "end": 11.85
+ },
+ {
+  "word": "fear",
+  "start": 11.85,
+  "end": 12.38
+ },
+ {
+  "word": "of",
+  "start": 12.38,
+  "end": 12.47
+ },
+ {
+  "word": "the",
+  "start": 12.47,
+  "end": 12.55
+ },
+ {
+  "word": "Bokkenrijders",
+  "start": 12.55,
+  "end": 13.5
+ },
+ {
+  "word": "the",
+  "start": 13.72,
+  "end": 13.83
+ },
+ {
+  "word": "goat",
+  "start": 13.83,
+  "end": 14.19
+ },
+ {
+  "word": "riders",
+  "start": 14.19,
+  "end": 14.78
+ },
+ {
+  "word": "Gangs",
+  "start": 14.98,
+  "end": 15.42
+ },
+ {
+  "word": "robbed",
+  "start": 15.42,
+  "end": 15.69
+ },
+ {
+  "word": "farms",
+  "start": 15.69,
+  "end": 16.22
+ },
+ {
+  "word": "and",
+  "start": 16.22,
+  "end": 16.34
+ },
+ {
+  "word": "churches",
+  "start": 16.34,
+  "end": 16.85
+ },
+ {
+  "word": "at",
+  "start": 16.85,
+  "end": 16.94
+ },
+ {
+  "word": "night",
+  "start": 16.94,
+  "end": 17.51
+ },
+ {
+  "word": "and",
+  "start": 17.51,
+  "end": 17.73
+ },
+ {
+  "word": "people",
+  "start": 17.73,
+  "end": 18.03
+ },
+ {
+  "word": "said",
+  "start": 18.03,
+  "end": 18.24
+ },
+ {
+  "word": "the",
+  "start": 18.24,
+  "end": 18.32
+ },
+ {
+  "word": "devil",
+  "start": 18.32,
+  "end": 18.86
+ },
+ {
+  "word": "gave",
+  "start": 18.86,
+  "end": 19.07
+ },
+ {
+  "word": "them",
+  "start": 19.07,
+  "end": 19.21
+ },
+ {
+  "word": "goats",
+  "start": 19.21,
+  "end": 19.71
+ },
+ {
+  "word": "that",
+  "start": 19.71,
+  "end": 19.85
+ },
+ {
+  "word": "flew",
+  "start": 19.85,
+  "end": 20.41
+ },
+ {
+  "word": "So",
+  "start": 20.83,
+  "end": 21.02
+ },
+ {
+  "word": "the",
+  "start": 21.02,
+  "end": 21.12
+ },
+ {
+  "word": "judges",
+  "start": 21.12,
+  "end": 21.61
+ },
+ {
+  "word": "went",
+  "start": 21.61,
+  "end": 21.79
+ },
+ {
+  "word": "hunting",
+  "start": 21.79,
+  "end": 22.33
+ },
+ {
+  "word": "for",
+  "start": 22.33,
+  "end": 22.47
+ },
+ {
+  "word": "riders",
+  "start": 22.47,
+  "end": 23.15
+ },
+ {
+  "word": "Every",
+  "start": 23.71,
+  "end": 24.0
+ },
+ {
+  "word": "suspect",
+  "start": 24.0,
+  "end": 24.59
+ },
+ {
+  "word": "was",
+  "start": 24.59,
+  "end": 24.8
+ },
+ {
+  "word": "tortured",
+  "start": 24.8,
+  "end": 25.4
+ },
+ {
+  "word": "until",
+  "start": 25.4,
+  "end": 25.68
+ },
+ {
+  "word": "he",
+  "start": 25.68,
+  "end": 25.85
+ },
+ {
+  "word": "answered",
+  "start": 25.85,
+  "end": 26.27
+ },
+ {
+  "word": "one",
+  "start": 26.27,
+  "end": 26.61
+ },
+ {
+  "word": "question",
+  "start": 26.61,
+  "end": 27.21
+ },
+ {
+  "word": "who",
+  "start": 27.83,
+  "end": 28.04
+ },
+ {
+  "word": "rides",
+  "start": 28.04,
+  "end": 28.39
+ },
+ {
+  "word": "with",
+  "start": 28.39,
+  "end": 28.55
+ },
+ {
+  "word": "you",
+  "start": 28.55,
+  "end": 28.84
+ },
+ {
+  "word": "One",
+  "start": 29.2,
+  "end": 29.51
+ },
+ {
+  "word": "prisoner",
+  "start": 29.51,
+  "end": 29.96
+ },
+ {
+  "word": "gave",
+  "start": 29.96,
+  "end": 30.2
+ },
+ {
+  "word": "three",
+  "start": 30.2,
+  "end": 30.66
+ },
+ {
+  "word": "names",
+  "start": 30.66,
+  "end": 31.42
+ },
+ {
+  "word": "Then",
+  "start": 31.42,
+  "end": 31.8
+ },
+ {
+  "word": "those",
+  "start": 31.8,
+  "end": 32.06
+ },
+ {
+  "word": "three",
+  "start": 32.06,
+  "end": 32.3
+ },
+ {
+  "word": "were",
+  "start": 32.3,
+  "end": 32.48
+ },
+ {
+  "word": "tortured",
+  "start": 32.48,
+  "end": 33.17
+ },
+ {
+  "word": "and",
+  "start": 33.17,
+  "end": 33.53
+ },
+ {
+  "word": "they",
+  "start": 33.53,
+  "end": 33.62
+ },
+ {
+  "word": "gave",
+  "start": 33.62,
+  "end": 33.85
+ },
+ {
+  "word": "nine",
+  "start": 33.85,
+  "end": 34.33
+ },
+ {
+  "word": "more",
+  "start": 34.33,
+  "end": 34.94
+ },
+ {
+  "word": "Even",
+  "start": 35.21,
+  "end": 35.57
+ },
+ {
+  "word": "Joseph",
+  "start": 35.57,
+  "end": 36.15
+ },
+ {
+  "word": "Kerckhoffs",
+  "start": 36.15,
+  "end": 37.14
+ },
+ {
+  "word": "a",
+  "start": 37.14,
+  "end": 37.24
+ },
+ {
+  "word": "surgeon",
+  "start": 37.24,
+  "end": 37.79
+ },
+ {
+  "word": "from",
+  "start": 37.79,
+  "end": 37.96
+ },
+ {
+  "word": "Herzogenrath",
+  "start": 37.96,
+  "end": 38.91
+ },
+ {
+  "word": "was",
+  "start": 38.91,
+  "end": 39.15
+ },
+ {
+  "word": "named",
+  "start": 39.15,
+  "end": 39.47
+ },
+ {
+  "word": "as",
+  "start": 39.47,
+  "end": 39.58
+ },
+ {
+  "word": "their",
+  "start": 39.58,
+  "end": 39.7
+ },
+ {
+  "word": "captain",
+  "start": 39.7,
+  "end": 40.3
+ },
+ {
+  "word": "and",
+  "start": 40.3,
+  "end": 40.82
+ },
+ {
+  "word": "on",
+  "start": 40.82,
+  "end": 40.97
+ },
+ {
+  "word": "May",
+  "start": 40.97,
+  "end": 41.18
+ },
+ {
+  "word": "11",
+  "start": 41.18,
+  "end": 41.79
+ },
+ {
+  "word": "1772",
+  "start": 41.79,
+  "end": 43.29
+ },
+ {
+  "word": "he",
+  "start": 43.48,
+  "end": 43.62
+ },
+ {
+  "word": "was",
+  "start": 43.62,
+  "end": 43.8
+ },
+ {
+  "word": "hanged",
+  "start": 43.8,
+  "end": 44.42
+ },
+ {
+  "word": "Each",
+  "start": 44.76,
+  "end": 45.03
+ },
+ {
+  "word": "confession",
+  "start": 45.03,
+  "end": 45.7
+ },
+ {
+  "word": "told",
+  "start": 45.7,
+  "end": 45.94
+ },
+ {
+  "word": "the",
+  "start": 45.94,
+  "end": 46.0
+ },
+ {
+  "word": "same",
+  "start": 46.0,
+  "end": 46.39
+ },
+ {
+  "word": "story",
+  "start": 46.39,
+  "end": 47.06
+ },
+ {
+  "word": "an",
+  "start": 47.41,
+  "end": 47.56
+ },
+ {
+  "word": "oath",
+  "start": 47.56,
+  "end": 47.86
+ },
+ {
+  "word": "to",
+  "start": 47.86,
+  "end": 47.99
+ },
+ {
+  "word": "the",
+  "start": 47.99,
+  "end": 48.09
+ },
+ {
+  "word": "devil",
+  "start": 48.09,
+  "end": 48.58
+ },
+ {
+  "word": "a",
+  "start": 48.82,
+  "end": 48.88
+ },
+ {
+  "word": "goat",
+  "start": 48.88,
+  "end": 49.26
+ },
+ {
+  "word": "at",
+  "start": 49.26,
+  "end": 49.38
+ },
+ {
+  "word": "midnight",
+  "start": 49.38,
+  "end": 49.88
+ },
+ {
+  "word": "a",
+  "start": 50.22,
+  "end": 50.26
+ },
+ {
+  "word": "ride",
+  "start": 50.26,
+  "end": 50.62
+ },
+ {
+  "word": "above",
+  "start": 50.62,
+  "end": 50.87
+ },
+ {
+  "word": "the",
+  "start": 50.87,
+  "end": 50.97
+ },
+ {
+  "word": "trees",
+  "start": 50.97,
+  "end": 51.66
+ },
+ {
+  "word": "You",
+  "start": 52.03,
+  "end": 52.13
+ },
+ {
+  "word": "see",
+  "start": 52.13,
+  "end": 52.45
+ },
+ {
+  "word": "the",
+  "start": 52.8,
+  "end": 52.89
+ },
+ {
+  "word": "judges",
+  "start": 52.89,
+  "end": 53.37
+ },
+ {
+  "word": "already",
+  "start": 53.37,
+  "end": 53.82
+ },
+ {
+  "word": "knew",
+  "start": 53.82,
+  "end": 54.25
+ },
+ {
+  "word": "what",
+  "start": 54.25,
+  "end": 54.43
+ },
+ {
+  "word": "a",
+  "start": 54.43,
+  "end": 54.47
+ },
+ {
+  "word": "goat",
+  "start": 54.47,
+  "end": 54.79
+ },
+ {
+  "word": "rider",
+  "start": 54.79,
+  "end": 55.06
+ },
+ {
+  "word": "should",
+  "start": 55.06,
+  "end": 55.26
+ },
+ {
+  "word": "say",
+  "start": 55.26,
+  "end": 55.79
+ },
+ {
+  "word": "so",
+  "start": 56.23,
+  "end": 56.35
+ },
+ {
+  "word": "the",
+  "start": 56.35,
+  "end": 56.44
+ },
+ {
+  "word": "pain",
+  "start": 56.44,
+  "end": 56.91
+ },
+ {
+  "word": "made",
+  "start": 56.91,
+  "end": 57.14
+ },
+ {
+  "word": "people",
+  "start": 57.14,
+  "end": 57.44
+ },
+ {
+  "word": "say",
+  "start": 57.44,
+  "end": 57.81
+ },
+ {
+  "word": "it",
+  "start": 57.81,
+  "end": 58.06
+ },
+ {
+  "word": "The",
+  "start": 58.29,
+  "end": 58.4
+ },
+ {
+  "word": "robbers",
+  "start": 58.4,
+  "end": 58.91
+ },
+ {
+  "word": "were",
+  "start": 58.91,
+  "end": 59.06
+ },
+ {
+  "word": "real",
+  "start": 59.06,
+  "end": 59.65
+ },
+ {
+  "word": "but",
+  "start": 59.99,
+  "end": 60.13
+ },
+ {
+  "word": "the",
+  "start": 60.13,
+  "end": 60.2
+ },
+ {
+  "word": "flying",
+  "start": 60.2,
+  "end": 60.83
+ },
+ {
+  "word": "came",
+  "start": 60.83,
+  "end": 61.08
+ },
+ {
+  "word": "from",
+  "start": 61.08,
+  "end": 61.21
+ },
+ {
+  "word": "the",
+  "start": 61.21,
+  "end": 61.29
+ },
+ {
+  "word": "torture",
+  "start": 61.29,
+  "end": 61.77
+ },
+ {
+  "word": "room",
+  "start": 61.77,
+  "end": 62.1
+ },
+ {
+  "word": "By",
+  "start": 62.39,
+  "end": 62.54
+ },
+ {
+  "word": "1794",
+  "start": 62.54,
+  "end": 64.11
+ },
+ {
+  "word": "about",
+  "start": 64.37,
+  "end": 64.64
+ },
+ {
+  "word": "1200",
+  "start": 64.64,
+  "end": 65.46
+ },
+ {
+  "word": "people",
+  "start": 65.46,
+  "end": 65.9
+ },
+ {
+  "word": "had",
+  "start": 65.9,
+  "end": 66.02
+ },
+ {
+  "word": "been",
+  "start": 66.02,
+  "end": 66.15
+ },
+ {
+  "word": "accused",
+  "start": 66.15,
+  "end": 66.96
+ },
+ {
+  "word": "At",
+  "start": 67.19,
+  "end": 67.33
+ },
+ {
+  "word": "least",
+  "start": 67.33,
+  "end": 67.64
+ },
+ {
+  "word": "425",
+  "start": 67.64,
+  "end": 69.28
+ },
+ {
+  "word": "of",
+  "start": 69.28,
+  "end": 69.41
+ },
+ {
+  "word": "them",
+  "start": 69.41,
+  "end": 69.63
+ },
+ {
+  "word": "were",
+  "start": 69.63,
+  "end": 69.79
+ },
+ {
+  "word": "executed",
+  "start": 69.79,
+  "end": 70.54
+ },
+ {
+  "word": "But",
+  "start": 70.98,
+  "end": 71.19
+ },
+ {
+  "word": "not",
+  "start": 71.19,
+  "end": 71.5
+ },
+ {
+  "word": "one",
+  "start": 71.5,
+  "end": 71.98
+ },
+ {
+  "word": "goat",
+  "start": 71.98,
+  "end": 72.39
+ },
+ {
+  "word": "was",
+  "start": 72.39,
+  "end": 72.69
+ },
+ {
+  "word": "ever",
+  "start": 72.69,
+  "end": 72.98
+ },
+ {
+  "word": "found",
+  "start": 72.98,
+  "end": 73.61
+ },
+ {
+  "word": "So",
+  "start": 73.88,
+  "end": 74.18
+ },
+ {
+  "word": "if",
+  "start": 74.18,
+  "end": 74.28
+ },
+ {
+  "word": "the",
+  "start": 74.28,
+  "end": 74.38
+ },
+ {
+  "word": "pain",
+  "start": 74.38,
+  "end": 74.79
+ },
+ {
+  "word": "only",
+  "start": 74.79,
+  "end": 75.07
+ },
+ {
+  "word": "stops",
+  "start": 75.07,
+  "end": 75.54
+ },
+ {
+  "word": "when",
+  "start": 75.54,
+  "end": 75.68
+ },
+ {
+  "word": "you",
+  "start": 75.68,
+  "end": 75.79
+ },
+ {
+  "word": "say",
+  "start": 75.79,
+  "end": 76.07
+ },
+ {
+  "word": "a",
+  "start": 76.07,
+  "end": 76.11
+ },
+ {
+  "word": "name",
+  "start": 76.11,
+  "end": 76.69
+ },
+ {
+  "word": "whose",
+  "start": 77.25,
+  "end": 77.5
+ },
+ {
+  "word": "name",
+  "start": 77.5,
+  "end": 77.73
+ },
+ {
+  "word": "do",
+  "start": 77.73,
+  "end": 77.82
+ },
+ {
+  "word": "you",
+  "start": 77.82,
+  "end": 77.94
+ },
+ {
+  "word": "say",
+  "start": 77.94,
+  "end": 78.6
+ }
+]

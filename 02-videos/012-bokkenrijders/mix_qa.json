@@ -1,0 +1,9 @@
+{
+ "integrated_LUFS": -14.0,
+ "LRA_LU": 2.0,
+ "true_peak_dBTP": -1.8,
+ "voice_LUFS": -14.0,
+ "bed_LUFS": -32.5,
+ "bed_under_voice_dB": 18.5,
+ "clipped_pct": 0.0
+}
