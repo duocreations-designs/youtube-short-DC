@@ -37,3 +37,22 @@ Zie lines.txt (geschreven) en spoken.txt (zoals de stem het uitspreekt).
 
 ## Titel en beschrijving
 Zie titel_beschrijving.txt.
+
+## Beeldplan (concept, tijden volgen na stem-edit)
+Vorm: kettingreactie. Elke bekentenis maakt meer gevangenen, een teller loopt op.
+| Set | Zinnen | Wat er gebeurt | Overgang |
+| --- | --- | --- | --- |
+| 1 Maannacht boven Limburg | 1 | Een bok met vleugels vliegt in frame 0 recht op de lens af. Een griffier schrijft "FLYING GOATS" in een boek. | start |
+| 2 Dorpsstraat bij nacht | 2 | Dorpelingen kijken omhoog. De lucht is leeg, alleen sterren. | hard cut |
+| 3 Dorp in angst | 3 tot 4 | Luiken slaan dicht. Een bende breekt een boerderijdeur en een kerkdeur open. Een schaduw van een duivel deelt bokken uit. | flash |
+| 4 Rechtbank Valkenburg | 5 | Rechters met lantaarns trekken eropuit. | whip |
+| 5 Martelkamer | 6 tot 8 | Verdachte op een stoel, rechter buigt naar de lens: "who rides with you?". 1 naam wordt 3, wordt 9. Namen vliegen als kaartjes de kamer in. | zoom |
+| 6 Herzogenrath | 9 | Chirurgijn Kerckhoffs met dokterstas wordt opgepakt. Galg, datum 11 mei 1772. | ghost |
+| 7 Droom van de bekentenis | 10 | Drie gevangenen vertellen hetzelfde: eed, bok om middernacht, rit boven de bomen. | rewind |
+| 8 Het script van de rechters | 11 tot 12 | Rechter houdt een kant-en-klaar verhaal vast. De bok blijkt een poppenkast in de martelkamer. | zoom |
+| 9 Galgenveld | 13 tot 14 | Teller 1.200 beschuldigd, 425 terechtgesteld. | flash |
+| 10 Lege wei | 15 tot 16 | Een gewone bok kauwt gras en kijkt in de lens. De rechter buigt weer naar de lens: "whose name?". | ghost |
+
+## Pop-teksten (concept)
+THEY NAMED THEIR FRIENDS (hook) | LIMBURG | 1743 TO 1794 | BOKKENRIJDERS | THE DEVIL | JUDGES | WHO RIDES WITH YOU? | 1 → 3 | 9 MORE | JOSEPH KERCKHOFFS | HERZOGENRATH | 11 MAY 1772 | SAME STORY | TORTURE ROOM | 1,200 ACCUSED | 425 EXECUTED | 0 GOATS | WHOSE NAME?
+Kleuren: geel voor jaartallen en aantallen, rood voor terechtgesteld en marteling, wit voor namen.
