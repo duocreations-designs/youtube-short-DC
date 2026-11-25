@@ -33,7 +33,58 @@ Zie lines.txt (geschreven) en spoken.txt (zoals de stem het uitspreekt).
 
 ## Stem
 - Harrison (573e5163-59b3-4926-aab1-951ef2985f81), Higgsfield elevenlabs_v4, stabiliteit 0,25, 16 dialoogregels met emotie-tags. 6,21 credits. Job 5f045c65-a796-496a-9380-aaa618d3acfd.
-- Ruw 78,6 s (2,66 woorden per seconde).
+- Ruw 78,6 s. Pauzes boven 0,25 s ingekort (1 pauze van 0,4 s voor "You see"), daarna rubberband-tempo x1,296. Zin 1 niet versneld.
+- Tempo gemeten op gesproken woorden (209, jaartallen voluit): 58,79 s van eerste tot laatste woord, 3,555 woorden per seconde.
+- "But" op 3,20 s (frame 96). "You see" op 39,33 s (67%).
+- Woordtiming: pocketsphinx, 196 van 196 woorden. Uitspraak-hulp in spoken.json (Bokkenrijders = "bock in riders", Kerckhoffs = "kirk offs", Herzogenrath = "hertz oh gun rot").
+- Lichte compressie op de stem (3:1 vanaf -26 dB) voor een LRA binnen 1,7 tot 3,2 LU.
+- tools/voice/edit_voice.py kreeg 2 optionele argumenten: het woord voor de lange pauze en het laatste woord van zin 1. Zonder die argumenten werkt het als bij 011.
+
+## Beeld
+- 12 sets, 34 shots, 59,67 s (1790 frames). Overgangen alleen tussen sets: flash, whip, zoom, ghost, rewind.
+- Sets: vliegende bok bij maanlicht, kasboek van de rechtbank, dorp bij nacht, overval op boerderij en kerk plus de duivel, rechters met lantaarns, martelkelder met namenbord, Herzogenrath met kasteel en galg, droom (eed, bok om middernacht, rit boven de bomen), het script van de rechters, galgenveld met teller, lege wei, slot in de kelder.
+- Frame 0 beweegt: een bok met vleugels vliegt vanaf de maan naar de lens. Eerste wissel op 1,75 s.
+- Nieuwe props in engine/limburg.tsx: bok (met of zonder vleugels), galg, kerk, vakwerkboerderij, kasboek met schrijvende ganzenveer, naamkaartje, maan, heuvel, fakkel, lantaarn, perkamentrol, martelpaal, rad, duivelshorens.
+- Namen op het bord zijn verzonnen (JAN, PIETER, ANNA enz.). De rechtbank en het kasboek zijn nagespeeld.
+
+## Teksten
+34 pops, Archivo Black, band vanaf y 100 op 1280. Hook: "425 HANGED / FOR THIS?" van frame 0 tot 1,35 s. Volledige lijst in engine/Bok012.tsx (POPS).
+
+## Geluid
+- Eigen muziek in code, 120 bpm, 9 delen: nachtdorp (bel en drone), sluipen, mars en spanning, snaredrum Herzogenrath, speeldoos in de droom, somber, zware drums bij de telling, fluit in de wei, slotspanning met klap op "say".
+- Dode stops op 21,14 (who rides with you), 32,85 (11 May 1772) en 53,33 (not one goat).
+- Bedden per set: wind en krekels, druppels en fakkelgeknetter, menigte en vogels, wind.
+- 98 effecten (98,5 per minuut), 7 in de eerste 3 s, 13 in de laatste 10 s. Nieuw in code: vleugelslag, geblaat, galop, voetstappen, krakend rad, doodsklok, deurklap.
+- Mix: -14,0 LUFS, true peak -1,8 dBTP, LRA 2,0 LU, muziek en effecten 18,5 dB onder de stem, 0% clipping.
+
+## Titel en beschrijving
+Zie titel_beschrijving.txt.
+
+## Stem
+- Harrison (573e5163-59b3-4926-aab1-951ef2985f81), Higgsfield elevenlabs_v4, stabiliteit 0,25, 16 dialoogregels met emotie-tags. 6,21 credits. Job 5f045c65-a796-496a-9380-aaa618d3acfd.
+- Ruw 78,6 s. Pauzes boven 0,25 s ingekort (1 pauze van 0,4 s voor "You see"), daarna rubberband-tempo x1,296. Zin 1 niet versneld.
+- Tempo gemeten op gesproken woorden (209, jaartallen voluit): 58,79 s van eerste tot laatste woord, 3,555 woorden per seconde.
+- "But" op 3,20 s (frame 96). "You see" op 39,33 s (67%).
+- Woordtiming: pocketsphinx, 196 van 196 woorden. Uitspraak-hulp in spoken.json (Bokkenrijders = "bock in riders", Kerckhoffs = "kirk offs", Herzogenrath = "hertz oh gun rot").
+- Lichte compressie op de stem (3:1 vanaf -26 dB) voor een LRA binnen 1,7 tot 3,2 LU.
+- tools/voice/edit_voice.py kreeg 2 optionele argumenten: het woord voor de lange pauze en het laatste woord van zin 1. Zonder die argumenten werkt het als bij 011.
+
+## Beeld
+- 12 sets, 34 shots, 59,67 s (1790 frames). Overgangen alleen tussen sets: flash, whip, zoom, ghost, rewind.
+- Sets: vliegende bok bij maanlicht, kasboek van de rechtbank, dorp bij nacht, overval op boerderij en kerk plus de duivel, rechters met lantaarns, martelkelder met namenbord, Herzogenrath met kasteel en galg, droom (eed, bok om middernacht, rit boven de bomen), het script van de rechters, galgenveld met teller, lege wei, slot in de kelder.
+- Frame 0 beweegt: een bok met vleugels vliegt vanaf de maan naar de lens. Eerste wissel op 1,75 s.
+- Nieuwe props in engine/limburg.tsx: bok (met of zonder vleugels), galg, kerk, vakwerkboerderij, kasboek met schrijvende ganzenveer, naamkaartje, maan, heuvel, fakkel, lantaarn, perkamentrol, martelpaal, rad, duivelshorens.
+- Namen op het bord zijn verzonnen (JAN, PIETER, ANNA enz.). De rechtbank en het kasboek zijn nagespeeld.
+
+## Teksten
+34 pops, Archivo Black, band vanaf y 100 op 1280. Hook: "425 HANGED / FOR THIS?" van frame 0 tot 1,35 s. Volledige lijst in engine/Bok012.tsx (POPS).
+
+## Geluid
+- Eigen muziek in code, 120 bpm, 9 delen: nachtdorp (bel en drone), sluipen, mars en spanning, snaredrum Herzogenrath, speeldoos in de droom, somber, zware drums bij de telling, fluit in de wei, slotspanning met klap op "say".
+- Dode stops op 21,14 (who rides with you), 32,85 (11 May 1772) en 53,33 (not one goat).
+- Bedden per set: wind en krekels, druppels en fakkelgeknetter, menigte en vogels, wind.
+- 98 effecten (98,5 per minuut), 7 in de eerste 3 s, 13 in de laatste 10 s. Nieuw in code: vleugelslag, geblaat, galop, voetstappen, krakend rad, doodsklok, deurklap.
+- Mix: -14,0 LUFS, true peak -1,8 dBTP, LRA 2,0 LU, muziek en effecten 18,5 dB onder de stem, 0% clipping.
 
 ## Titel en beschrijving
 Zie titel_beschrijving.txt.
